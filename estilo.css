@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(128, 128, 128);
+    
+}
+
+h1 {
+  color: rgb(0, 255, 98);
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
+  text-align: justify;
+}
+
+td{
+    padding: 20px;
+}
+img {
+    margin: 10px;
+}
+ .minha-imagem {
+    border-radius: 80px;
+    width: 400px;
+    height: auto;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  
+}
+
+
+
+
+
+
+
+
+ 
